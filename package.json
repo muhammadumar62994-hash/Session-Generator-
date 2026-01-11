@@ -6,13 +6,13 @@
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name ARSLAN-MD",
-    "stop": "pm2 stop ARSLAN-MD",
-    "restart": "pm2 restart ARSLAN-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name UMAR-MD",
+    "stop": "pm2 stop UMAR-MD",
+    "restart": "pm2 restart UMAR-MD",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Arslan-MD",
+  "author": "UMAR-MD",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
